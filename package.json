@@ -1,0 +1,27 @@
+{
+  "name": "react-fastback-cli",
+  "version": "0.0.5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "react-fastback-cli": "bin/react-fastback-cli"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "cli",
+    "antd",
+    "eslint"
+  ],
+  "author": "littlehorsex",
+  "license": "ISC",
+  "repository": "git+http://gitlab.sftcwl.com/01379546/react-fastback.git",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0"
+  }
+}
